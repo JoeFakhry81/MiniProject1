@@ -61,7 +61,7 @@ public class Sign extends Application {
 
             if (username.isEmpty() || password.isEmpty()) {
                 errorMsg.setText("Username and password are required!");
-            } else if (!username.equals("joe") || !password.equals("202400060")) {
+            } else if (!username.equals("joefakhry") || !password.equals("202400060")) {
                 errorMsg.setText("Incorrect username and/or password!");
             } else {
                 primaryStage.close();
