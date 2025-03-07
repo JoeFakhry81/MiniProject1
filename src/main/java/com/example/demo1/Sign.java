@@ -220,3 +220,4 @@ public class Sign extends Application {
         public String getDays() { return days; }
         public String getMembershipType() { return membershipType; }
     }
+}
