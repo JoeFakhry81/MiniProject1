@@ -218,4 +218,5 @@ public class Sign extends Application {
         public String getActivity() { return activity; }
         public String getAddress() { return address; }
         public String getDays() { return days; }
-        public String getMembershipType() { return membershipType}}
+        public String getMembershipType() { return membershipType; }
+    }
